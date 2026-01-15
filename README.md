@@ -20,5 +20,5 @@ Artificial Intelligence based web application
 🙌 Acknowledgment
 Thanks to CodeAlpha for providing this internship opportunity.
 
-👩‍💻 Author
+👩‍💻 Author:
 Purnima Gangwar.
