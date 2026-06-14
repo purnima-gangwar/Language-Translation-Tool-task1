@@ -8,7 +8,7 @@ This project is developed as part of the CodeAlpha Artificial Intelligence Inter
 - Speak button (Text-to-Speech) for audio output
 - User-friendly interface
 
- 🛠️ Technologies Used:
+ 🛠️Technologies Used:
 - HTML
 - CSS
 - JavaScript
