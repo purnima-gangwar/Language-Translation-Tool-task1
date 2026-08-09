@@ -17,8 +17,5 @@ This project is developed as part of the CodeAlpha Artificial Intelligence Inter
  📌 Project Type
 Artificial Intelligence based web application
 
-🙌 Acknowledgment:
-Thanks to CodeAlpha for providing this internship opportunity.
-
 👩‍💻 Author: Purnima Gangwar
 Thank You!
