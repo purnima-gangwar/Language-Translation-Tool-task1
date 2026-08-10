@@ -12,7 +12,7 @@
 - JavaScript
 - Translation API
 
- 📌 Project Type
+ 📌 Project Type :
 Artificial Intelligence based web application
 
 👩‍💻 Author: Purnima Gangwar
