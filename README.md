@@ -4,7 +4,7 @@
 - Translate text between multiple languages
 - Copy button to copy translated text
 - Speak button (Text-to-Speech) for audio output
-- User-friendly interface
+- User-friendly interface 
 
  ## 🛠️Technologies Used:
 - HTML
@@ -16,4 +16,4 @@
 Artificial Intelligence based web application
 
 👩‍💻 Author: Purnima Gangwar
-- Thank You!
+   Thank You!
