@@ -16,4 +16,4 @@
 Artificial Intelligence based web application
 
 👩‍💻 Author: Purnima Gangwar
-   Thank You!
+   ## Thank You!
